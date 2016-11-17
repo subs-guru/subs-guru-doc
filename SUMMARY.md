@@ -2,7 +2,7 @@
 
 * Intro
   * [Features](features.md) [fr:Fonctionnalités](features.fr.md)
-  * fr:[Data structure](data-scructure.fr.md)
+  * [fr:Data structure](data-scructure.fr.md)
 * [Installation](installation.md)
 * Configuration
   * [Configuration](configuration.md)
