@@ -1,7 +1,7 @@
 # Summary
 
 * Intro
-  * [Features](features.md) [fr:Fonctionnalités](features.fr.md)
+  * [Features](features.md) ([fr:Fonctionnalités](features.fr.md))
   * [fr:Data structure](data-scructure.fr.md)
   * [fr:Organisation](organisation.fr.md)
 * [Installation](installation.md)
