@@ -12,9 +12,9 @@
   Defines the options : description, price, counter, etc.
 - **[plans.yaml](plansyaml.md)**
   Defines each plan that can be used as a subscription. Mostly composed by options.
-- **[contracts.yaml](#contracts.yaml)**
+- **[contracts.yaml](contractsyaml.md)**
   Defines how a plan must be subscribed and billed
-- **[defaults.yaml](#defaults.yaml)**
+- **[defaults.yaml](defaultsyaml.md)**
   Defines counters, options and plans default values that will be applied on all.
 
 
