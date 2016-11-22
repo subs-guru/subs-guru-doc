@@ -5,9 +5,6 @@
 * [fr:Organisation](organisation.fr.md)
 * [Features](features.md)
    * [fr:Features](features.fr.md)
-* Intro
-   * [Features](features.md)
-       * [fr:Features](features.fr.md)
 * [Installation](installation.md)
 * Configuration
    * [fr:Create your plans](create-your-plans.fr.md)
