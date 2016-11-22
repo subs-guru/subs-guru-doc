@@ -5,6 +5,8 @@ h1, h2, h3, h4 {
 }
 .markdown-section h1 {
     text-align: center;
+    text-transform: uppercase;
+    border-bottom: grey 1px solid;
 }
 .markdown-section h2 {
     text-transform: uppercase;
