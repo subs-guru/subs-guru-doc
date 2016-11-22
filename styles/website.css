@@ -1,1 +1,9 @@
 /* CSS for website */
+.markdown-section h1 {
+    text-align: center;
+}
+.markdown-section h3 {
+    margin-left: 1em;
+    text-decoration: underline;
+}
+
