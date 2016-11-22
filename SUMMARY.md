@@ -6,6 +6,7 @@
 * [fr:Data structure](data-structure.fr.md)
 * [fr:Organisation](organisation.fr.md)
 * [Installation](installation.md)
+* [fr:Create your plans](create-your-plans.fr.md)
 * Configuration
    * [fr:Create your plans](create-your-plans.fr.md)
 * [Configuration files](configuration_files/configuration_files.md)
