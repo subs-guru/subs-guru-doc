@@ -13,5 +13,5 @@
    * [config.yaml](configuration_files/configyaml.md)
    * [taxes.yaml](configuration_files/taxesyaml.md)
    * [counters.yaml](configuration_files/countersyaml.md)
-   * options.yaml
+   * [options.yaml](configuration_files/optionsyaml.md)
 
