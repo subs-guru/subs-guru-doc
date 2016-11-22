@@ -2,9 +2,9 @@
 
 ## Files
 
-- **[config.yaml](#config.yaml)**
+- **[config.yaml](config.yaml)**
   Your service, supported languages and currencies, invoice parameters and custom fields
-- **[taxes.yaml](#taxes.yaml)**
+- **[taxes.yaml](configuration_files/taxesyaml.md)**
   Taxes that need to be applied on your invoice
 - **[counters.yaml](#counters.yaml)**
   Defines the counters you need to use with options (e.g. users included, storage space, etc.)
