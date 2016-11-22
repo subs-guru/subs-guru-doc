@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [fr:Data structure](data-structure.fr.md)
 * Intro
    * [Features](features.md)
        * [fr:Features](features.fr.md)
