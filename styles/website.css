@@ -1,9 +1,21 @@
 /* CSS for website */
+@import url('https://fonts.googleapis.com/css?family=Lato');
+h1, h2, h3, h4 {
+  font-family: 'Lato', sans-serif;
+}
 .markdown-section h1 {
     text-align: center;
 }
+.markdown-section h2 {
+    text-transform: uppercase;
+}
 .markdown-section h3 {
     margin-left: 1em;
+    text-decoration: underline;
+}
+.markdown-section h4 {
+    margin-left: 1em;
+    font-style: italic;
     text-decoration: underline;
 }
 
