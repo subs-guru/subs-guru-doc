@@ -25,7 +25,6 @@ Si pour l'option, on a la propriété `editable : [enabled] ` on peut modifier l
 Listes des options incluses automatiquement dans le forfait, ou que l'on peut ajouter (peut être ajouté ou supprimé pendant la composition du plan si autorisé par `editable : [enabled]`)
 
 Chaque option est :
-
 - Est liée à l'abonnement.
 - Est explicitement incluse dans le plan.
 - Offre récurrente uniquement.
@@ -36,7 +35,6 @@ Chaque option est :
 Listes des options qui définissent une part variable dans le forfait, ou que l'on peut ajouter (peut être ajouté ou supprimé pendant la composition du plan si autorisé par `editable : [enabled]`)
 
 Chaque option est :
-
 - Est liée à l'abonnement.
 - Est explicitement incluse dans le plan.
 - Offre récurrente uniquement.
@@ -47,7 +45,6 @@ Chaque option est :
 Liste d'offres qui seront facturées une fois lors de l'abonnement (ajouté automatiquement ou manuellement). Cela permet de définir les frais de mise en route ou des options du type formation initiale par exemple.
 
 Chaque option est :
-
 - Est liée à l'abonnement.
 - Est explicitement incluse dans le plan.
 - Offre ponctuelle uniquement.
@@ -58,7 +55,6 @@ Chaque option est :
 Définis un catalogue d'offres, offres qui peuvent être facturées pendant la souscription, et librement achetées par le client.
 
 Chaque option est :
-
 - Est liée à l'abonnement (le plan définit juste les offres disponibles par rapport à ce plan)
 - N'est pas explicitement incluse dans le plan (l'achat se fait ponctuellement, à la demande du client)
 - Aucune récurrence.
