@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * Intro
    * [Features](features.md)
-       * fr:Features
+       * [fr:Features](features.fr.md)
    * [fr:Data structure](data-structure.fr.md)
    * [fr:Organisation](organisation.fr.md)
 * [Installation](installation.md)
