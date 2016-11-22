@@ -7,8 +7,6 @@
 * [fr:Organisation](organisation.fr.md)
 * [Installation](installation.md)
 * [fr:Create your plans](create-your-plans.fr.md)
-* Configuration
-   * [fr:Create your plans](create-your-plans.fr.md)
 * [Configuration files](configuration_files/configuration_files.md)
    * [config.yaml](configuration_files/configyaml.md)
    * [taxes.yaml](configuration_files/taxesyaml.md)
