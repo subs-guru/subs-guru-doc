@@ -30,9 +30,8 @@ La mise en place d'un abonnement pour un client necessite de choisir un **plan**
 > Lié au contrat, et s'applique à l'ensemble des abonnements d'un même contrat. Avec la même durée, la même date de début et la date de fin
 
 Un client peut avoir plusieurs contrats :
-
 - chaque contrat peut contenir plusieurs abonnements
-  - chaque abonnement peut avoir plusieurs plans qui se succèdent
+- chaque abonnement peut avoir plusieurs plans qui se succèdent
 
 
 
