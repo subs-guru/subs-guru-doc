@@ -1,6 +1,6 @@
 
 
-Pour configurer votre système, vous devez créer la configuration complete qui définira vos plans. Le détail de la configuration est disponible dans la documentation *configuration.md*. Vous trouverez ci dessous l'explication globale du fonctionnement des abonnements et des plans.
+Pour configurer votre système, vous devez créer la configuration complete qui définira vos plans. Vous trouverez ci dessous l'explication globale du fonctionnement des abonnements et des plans.
 
 ## Contenu d'un plan
 
@@ -96,7 +96,6 @@ Si le prix du plan est "forfaitaire", c'est-à-dire qu'il ne correspond pas exac
 Un plan est disponible peut être disponible sous plusieurs contrats (par exemple sur des contrats annuels ou mensuels)
 
 Un contrat définit :
-
 - la périodicité
 - en combien de fois une période doit être facturé
 - si l'abonnement est facturé en début ou en fin de période
@@ -107,7 +106,6 @@ Un contrat définit :
 #### Durée
 
 La période d'un contrat définit l'unité minimum du contrat :
-
 - les quantités incluses dans les abonnements de ce contrat se réfèrent à cette période (par exemple, 100 000 emails par an)
 - la durée d'engagement est automatiquement supérieure à la période
 - le renouvellement se fait toujours pour une période entière.
@@ -127,7 +125,6 @@ Cela permet d'avoir un plan annuel et un plan mensuel, mais qui utilisent les m�
 Un abonnement peut être facturé en une ou plusieurs factures, en fonction de ce qui est défini dans le contrat.
 
 Plusieurs choix sont possibles, sur une période on peut :
-
 - faire 1 unique facture, mais la payer en plusieurs fois
 - faire plusieurs factures, qui seront payées individuellement en une fois
 - évidemment, faire une facture, qui sera payée en une fois.
