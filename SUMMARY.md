@@ -16,5 +16,5 @@
    * [options.yaml](configuration_files/optionsyaml.md)
    * [plans.yaml](configuration_files/plansyaml.md)
    * [contracts.yaml](configuration_files/contractsyaml.md)
-   * discounts.yaml
+   * [discounts.yaml](configuration_files/discountsyaml.md)
 
