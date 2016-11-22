@@ -1,4 +1,4 @@
-# Fonctionnalités N.S.A
+# Fonctionnalités subsGURU
 
 Facturation récurrente d'abonnements
 
