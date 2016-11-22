@@ -9,5 +9,5 @@
 * Configuration
    * [Configuration](configuration.md)
    * [fr:Create your plans](create-your-plans.fr.md)
-* Configuration files
+* [Configuration files](configuration_files/configuration_files.md)
 
