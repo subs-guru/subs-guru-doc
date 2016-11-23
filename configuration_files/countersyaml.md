@@ -45,6 +45,7 @@ The **type** property sets how the counter works :
 
 - "*cumulative*" : at each period beginning (and renewal), the value is added to the counter
 - "*reset*": the counter is set at the value on each beginning (and renewal)
+- - "*limit*": the counter is set at the value but this counter didn't allow consumption
 
 ### quantity-prorated
 
